@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2 ,
+    "name": "Google Meet Transcriber",
+    "description" : "This gives a detailed transcribed record of the meet",
+
+    "version" : "2.0",
+  
+    "icons" : {
+     "16": "/Logo/inner16.png",
+     "48": "/Logo/inner48.png",
+     "128": "/Logo/inner128.png"
+  },
+    "page_action": {
+    "default_icon":{
+      "16": "/Logo/outer16.png",
+      "48":  "/Logo/outer48.png",
+      "128":  "/Logo/outer128.png"
+     }
+  }
+   
+  }
